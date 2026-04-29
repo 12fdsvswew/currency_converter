@@ -1,1 +1,10 @@
-
+[
+  {
+    "datetime": "2026-04-29 10:45:03",
+    "amount": 1000.0,
+    "from_currency": "USD",
+    "to_currency": "EUR",
+    "result": 854.0,
+    "rate": 0.854
+  }
+]
